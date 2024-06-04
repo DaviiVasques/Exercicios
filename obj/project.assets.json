@@ -8,12 +8,17 @@
     "net8.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\yasmi\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+=======
+    "C:\\Users\\Objetivo\\.nuget\\packages\\": {}
+>>>>>>> 21b53d73c3e12f95c605826332f84ea268330237
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\yasmi\\OneDrive\\Área de Trabalho\\Teste\\Teste.csproj",
       "projectName": "Teste",
       "projectPath": "C:\\Users\\yasmi\\OneDrive\\Área de Trabalho\\Teste\\Teste.csproj",
@@ -27,13 +32,26 @@
         "C:\\Users\\yasmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+      "projectUniqueName": "C:\\Users\\Objetivo\\Desktop\\teste\\teste.csproj",
+      "projectName": "teste",
+      "projectPath": "C:\\Users\\Objetivo\\Desktop\\teste\\teste.csproj",
+      "packagesPath": "C:\\Users\\Objetivo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Objetivo\\Desktop\\teste\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Objetivo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 21b53d73c3e12f95c605826332f84ea268330237
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+<<<<<<< HEAD
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
+=======
+>>>>>>> 21b53d73c3e12f95c605826332f84ea268330237
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -72,7 +90,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 21b53d73c3e12f95c605826332f84ea268330237
       }
     }
   }

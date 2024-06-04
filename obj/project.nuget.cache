@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "HPsTq/YS9+c=",
   "success": true,
   "projectFilePath": "C:\\Users\\yasmi\\OneDrive\\Área de Trabalho\\Teste\\Teste.csproj",
+=======
+  "dgSpecHash": "BSL+uHAWkGA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Objetivo\\Desktop\\teste\\teste.csproj",
+>>>>>>> 21b53d73c3e12f95c605826332f84ea268330237
   "expectedPackageFiles": [],
   "logs": []
 }
